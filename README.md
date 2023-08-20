@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Thiago Claudino currenty "ADS" (Software Development and Data Analyst) student
+- 👀 I’m interested in games, virtual reality and technology in general
+- 🌱 I’m currently learning Java, C, C++, HTML, Data Struture.
+- 💞️ I’m looking to collaborate on small projects in order to develop new skills
+- 📫 Be free to contact me
+
+<!---
+tlclaudino/tlclaudino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
