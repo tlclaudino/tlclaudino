@@ -1,3 +1,5 @@
+THIAGO CLAUDINO
+
 - 👋 Hi, I’m Thiago Claudino currenty "ADS" (Software Development and Data Analyst) student
 - 👀 I’m interested in games, virtual reality and technology in general
 - 🌱 I’m currently learning Java, C, C++, HTML, Data Structure.
