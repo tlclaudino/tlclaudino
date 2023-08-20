@@ -5,6 +5,12 @@ THIAGO CLAUDINO
 - 🌱 I’m currently learning Java, C, C++, HTML, Data Structure.
 - 💞️ I’m looking to collaborate on small projects in order to develop new skills
 - 📫 Be free to contact me
+- I'm able to speak:
+- Portuguese
+- Spanish
+- Italian
+- English
+- Russian
 
 <!---
 tlclaudino/tlclaudino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
